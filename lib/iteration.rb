@@ -57,6 +57,7 @@ def total_even_pairs(src)
   # this!
   
   total = 0 
+  i = 0 
   
   
   
