@@ -56,6 +56,8 @@ def total_even_pairs(src)
   # the number was even. Review the operator documentation if you've forgotten
   # this!
   
+  total = 0 
+  
   
   
   
